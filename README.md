@@ -7,7 +7,7 @@
 
 To reference the database, please cite the manuscript. Contact Jude Kong with questions at jdkong@yorku.ca.
 
-This repository contains a dataabse with 74 covariates collated from over 30 sources verified by the Ontario Ministry of Health designed for use by biomedical, biomathematical and social scientists, to ensure broad accessibility to public health workers, decision- and policy-makers and other relevant stakeholders, (re-)use of data and high methodological transparency and reproducibility.
+This repository contains a database with 74 covariates collated from over 30 sources verified by the Ontario Ministry of Health designed for use by biomedical, biomathematical and social scientists, to ensure broad accessibility to public health workers, decision- and policy-makers and other relevant stakeholders, (re-)use of data and high methodological transparency and reproducibility.
 
 
 ## Overview
